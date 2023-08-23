@@ -1,0 +1,18 @@
+.green_container {
+  background-color: rgb(31, 164, 31);
+  font-family: "Times New Roman", Times, serif;
+  border-radius: 10px;
+  box-shadow: 10px 10px white;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.countdown_container {
+  background-color: rgb(112, 4, 174);
+  color: white;
+  border-radius: 10px;
+  box-shadow: 7px 7px black;
+}
